@@ -56,3 +56,4 @@ To create a React environment, simply type into your terminal
 ```
 npm install react react-dom
 ```
+This should create two directories, .idea and node_modules, and two files, package.json and package-lock.json. Now you can pull the starter code from the repository and you're ready to go! :-)
