@@ -52,3 +52,7 @@ npm -v # Should print "10.9.2".
 ```
 
 ## Creating a React Project
+To create a React environment, simply type into your terminal
+```
+npm install react react-dom
+```
