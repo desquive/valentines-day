@@ -14,7 +14,12 @@ brew --prefix
 If these commands don't work, it is likely that Homebrew is not in your $PATH environment variable
 
 ```
-#Add Homebrew to shell configuration file (i.e., $PATH environment variable)
+# Check if Homebrew is in shell configuration file (i.e., $PATH environment variable)
+echo $PATH
+```
+If /opt/homebrew/bin or /usr/local/bin are not present in your $PATH environment variable, add it using the commands below. 
+```
+# Add Homebrew to shell configuration file (i.e., $PATH environment variable)
 export PATH="/opt/homebrew/bin:$PATH"  # Apple Silicon
 export PATH="/usr/local/bin:$PATH"     # Intel
 ```
