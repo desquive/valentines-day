@@ -51,9 +51,9 @@ node -v # Should print "v22.13.1".
 npm -v # Should print "10.9.2".
 ```
 
-## Creating a React Project
-To create a React environment, simply type into your terminal
+## Running a React Project
+Pull the starter code from the repository and run
 ```
-npm install react react-dom
+npm start
 ```
-This should create two directories, .idea and node_modules, and two files, package.json and package-lock.json. Now you can pull the starter code from the repository and you're ready to go! :-)
+You're ready to win over your next boo! :-)
