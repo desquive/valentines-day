@@ -1,5 +1,5 @@
 # Code a Valentine's Day Card
-Today, you will learn how to code a Valentine's Day card using React! First, you will need to install a couple of dependencies in order to get this started. 
+Today, you will learn how to code a Valentine's Day card using React! First, if you don't have Node or Homebrew installed, you will need to in order to get started. 
 
 ## For MacOS (or Linux) Users 
 ### Installing Homebrew
