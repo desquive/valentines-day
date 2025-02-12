@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67512cb2-d810-4612-9ef4-271f5ee9e245" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/site/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/components/Envelope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/components/ToFrom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/site/components/Hearts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JSX File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,16 +54,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "completed",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/desquive/colorstack/valentines-day",
+    "last_opened_file_path": "/Users/desquive/school/clubs/colorstack/valentines-day",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/site/fonts" />
+      <recent name="$PROJECT_DIR$/src/site/components" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1739084697985</updated>
       <workItem from="1739084700748" duration="22000" />
-      <workItem from="1739087236452" duration="2801000" />
+      <workItem from="1739087236452" duration="12632000" />
+      <workItem from="1739339991909" duration="10139000" />
     </task>
     <servers />
   </component>
